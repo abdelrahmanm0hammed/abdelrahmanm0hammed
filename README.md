@@ -1,6 +1,6 @@
 # Hi there, I'm Abdelrahman Muhammed! 👋
 
-![Banner Image](https://via.placeholder.com/1200x300?text=Backend+Developer+%7C+Django+%26+REST+APIs)
+
 
 ## About Me 🚀
 
