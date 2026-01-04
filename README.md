@@ -1,6 +1,4 @@
 # Hi , I'm Abdelrahman Muhammed! 👋
-![Banner](https://via.placeholder.com/1200x300?text=Backend+Developer)
-
 
 ## About Me 🚀
 
