@@ -8,7 +8,6 @@ Hi! I'm **Abdelrahman Muhammed**, a passionate **Backend Developer** who enjoys 
 
 I mainly work with **Python, Django, and Django REST Framework**, focusing on creating well-structured APIs and solid database designs.
 
-I'm always learning, improving my backend skills, and exploring better ways to build efficient server-side applications.
 
 - 🌱 Currently learning: **React**
 - 🔭 Working on: **Backend APIs and personal projects**
