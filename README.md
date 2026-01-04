@@ -1,45 +1,69 @@
-# Hi there, I'm [Abdelrahman Muhammed]! 👋
+# Hi there, I'm Abdelrahman Muhammed! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://via.placeholder.com/1200x300?text=Backend+Developer+%7C+Django+%26+REST+APIs)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+Hi! I'm **Abdelrahman Muhammed**, a **Backend Developer** who enjoys building clean, reliable, and scalable backend systems.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+I mainly work with **Python, Django, and Django REST Framework**, focusing on creating well-structured APIs and solid database designs.
+
+I like turning real-world ideas into backend solutions, paying attention to code quality, security, and maintainability.
+
+I'm always learning, improving my backend skills, and exploring better ways to build efficient server-side applications.
+
+- 🌱 Currently learning: **React**
+- 🔭 Working on: **Backend APIs and personal projects**
+- 🌍 Languages: **Arabic (Native), English (B2), German (A2)**
+- 💻 Tech Stack: **Python, Django, Django REST Framework, HTML, CSS, JavaScript**
+- 📫 How to reach me: **LinkedIn**
+- ⚡ Fun fact: **I enjoy learning new languages—both human and programming ones 😄**
 
 ## My Skills 🧠
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### ExpenseTrackerAPI
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![ExpenseTrackerAPI Screenshot](https://via.placeholder.com/800x400?text=ExpenseTrackerAPI)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**ExpenseTrackerAPI** is a RESTful backend API that allows users to track and manage their expenses efficiently.
 
-### [Project 2 Title](project_2_link)
+Built with **Django, Django REST Framework, and SQL**, this project demonstrates my ability to:
 
-![Project 2 Screenshot](project_2_screenshot_url)
+- Design RESTful APIs following best practices  
+- Implement CRUD operations and business logic  
+- Work with relational databases  
+- Structure scalable backend applications  
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+🔗 Repository:  
+https://github.com/abdelrahmanm0hammed/Alx_CapstoneProject
+
+---
+
+### Social Media API
+
+![Social Media API Screenshot](https://via.placeholder.com/800x400?text=Social+Media+API)
+
+**Social Media API** is a backend system that enables users to authenticate, create posts, like content, and add comments.
+
+Built using **Django REST Framework**, this project showcases my skills in:
+
+- User authentication and authorization  
+- Designing relational models (users, posts, likes, comments)  
+- Building modular and maintainable APIs  
+- Handling user interactions in backend systems  
+
+🔗 Repository:  
+https://github.com/abdelrahmanm0hammed/Alx_DjangoLearnLab/tree/main/social_media_api
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
-
-
+- **LinkedIn**: https://www.linkedin.com/in/abdelrahman-muhammed-9ab00a34a/
+- **GitHub**: https://github.com/abdelrahmanm0hammed
