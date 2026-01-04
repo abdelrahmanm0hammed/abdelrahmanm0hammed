@@ -9,10 +9,10 @@ Hi! I'm **Abdelrahman Muhammed**, a passionate **Backend Developer** who enjoys 
 I mainly work with **Python, Django, and Django REST Framework**, focusing on creating well-structured APIs and solid database designs.
 
 
-- 🌱 Currently learning: **React**
+- 🌱 Currently learning: **HTML, CSS, JavaScript, React**
 - 🔭 Working on: **Backend APIs and personal projects**
 - 🌍 Languages: **Arabic (Native), English (B2), German (A2)**
-- 💻 Tech Stack: **Python, Django, Django REST Framework, HTML, CSS, JavaScript**
+- 💻 Tech Stack: **Python, Django, Django REST Framework**
 - 📫 How to reach me: **LinkedIn**
 - ⚡ Fun fact: **I enjoy learning new languages—both human and programming ones 😄**
 
