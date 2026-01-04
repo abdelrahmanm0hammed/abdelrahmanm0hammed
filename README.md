@@ -1,10 +1,14 @@
-# Hi , I'm Abdelrahman Muhammed! 👋
+# Hi there, I'm Abdelrahman Muhammed! 👋
+
+![Banner Image](https://via.placeholder.com/1200x300?text=Backend+Developer+%7C+Django+%26+REST+APIs)
 
 ## About Me 🚀
 
 Hi! I'm **Abdelrahman Muhammed**, a passionate **Backend Developer** who enjoys building clean, reliable, and scalable backend systems.
+
 I mainly work with **Python, Django, and Django REST Framework**, focusing on creating well-structured APIs and solid database designs.
-I'm always learning, improving my backend skills.
+
+I'm always learning, improving my backend skills, and exploring better ways to build efficient server-side applications.
 
 - 🌱 Currently learning: **React**
 - 🔭 Working on: **Backend APIs and personal projects**
@@ -15,22 +19,25 @@ I'm always learning, improving my backend skills.
 
 ## My Skills 🧠
 
-- **Backend**: Python, Django, Django REST Framework  
-- **Frontend Basics**: HTML, CSS, JavaScript  
-- **Databases**: SQL  
-- **Tools & Concepts**: REST APIs, Authentication, CRUD Operations  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## Featured Projects 💻
 
 ### ExpenseTrackerAPI
 
+
 **ExpenseTrackerAPI** is a RESTful backend API that allows users to track and manage their expenses efficiently.
 
-**Key highlights:**
-- Designed RESTful APIs following best practices  
-- Implemented CRUD operations and business logic  
-- Worked with relational databases  
-- Structured scalable backend applications  
+Built with **Django, Django REST Framework, and SQL**, this project demonstrates my ability to:
+
+- Design RESTful APIs following best practices  
+- Implement CRUD operations and business logic  
+- Work with relational databases  
+- Structure scalable backend applications  
 
 🔗 Repository:  
 https://github.com/abdelrahmanm0hammed/Alx_CapstoneProject
@@ -39,13 +46,15 @@ https://github.com/abdelrahmanm0hammed/Alx_CapstoneProject
 
 ### Social Media API
 
+
 **Social Media API** is a backend system that enables users to authenticate, create posts, like content, and add comments.
 
-**Key highlights:**
+Built using **Django REST Framework**, this project showcases my skills in:
+
 - User authentication and authorization  
-- Relational data modeling (users, posts, likes, comments)  
-- Modular and maintainable API design  
-- Handling user interactions and permissions  
+- Designing relational models (users, posts, likes, comments)  
+- Building modular and maintainable APIs  
+- Handling user interactions in backend systems  
 
 🔗 Repository:  
 https://github.com/abdelrahmanm0hammed/Alx_DjangoLearnLab/tree/main/social_media_api
