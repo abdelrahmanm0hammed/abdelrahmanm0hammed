@@ -2,10 +2,8 @@
 
 ## About Me 🚀
 
-Hi! I'm **Abdelrahman Muhammed**, a **Backend Developer** who enjoys building clean, reliable, and scalable backend systems.
-
+Hi! I'm **Abdelrahman Muhammed**, a passionate **Backend Developer** who enjoys building clean, reliable, and scalable backend systems.
 I mainly work with **Python, Django, and Django REST Framework**, focusing on creating well-structured APIs and solid database designs.
-
 I'm always learning, improving my backend skills.
 
 - 🌱 Currently learning: **React**
