@@ -43,20 +43,6 @@ https://github.com/abdelrahmanm0hammed/Alx_CapstoneProject
 
 ---
 
-### Social Media API
-
-
-**Social Media API** is a backend system that enables users to authenticate, create posts, like content, and add comments.
-
-Built using **Django REST Framework**, this project showcases my skills in:
-
-- User authentication and authorization  
-- Designing relational models (users, posts, likes, comments)  
-- Building modular and maintainable APIs  
-- Handling user interactions in backend systems  
-
-🔗 Repository:  
-https://github.com/abdelrahmanm0hammed/Alx_DjangoLearnLab/tree/main/social_media_api
 
 ## Get in Touch 📬
 
